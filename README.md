@@ -1,5 +1,7 @@
 # Hey, I'm Joe 👋
 
+~~Vibe // Chaos~~
+
 **Full-Stack Developer** | Building AI-powered tools | Teaching 2K+ developers about AI & development
 
 I bridge the gap between complex technical solutions and real business value. I build scalable applications, create AI-powered products, and share what I learn with developers on TikTok.
@@ -28,7 +30,7 @@ I create educational content about AI tools, development workflows, and technica
 
 When I'm not coding or creating content:
 - 🐝 Keeping bees and learning apiculture
-- 🏍️ Traveling on motorcycles (South America trip documented at qr646.com)
+- 🏍️ Overland Moto Travel (South America trip documented at qr646.com)
 - 📚 Writing about tech and travel
 
 ---
@@ -39,7 +41,6 @@ I'm always interested in connecting with other builders, especially those workin
 - AI-powered applications
 - Supabase projects
 - Developer tools and automation
-- EdTech and training platforms
 
 Open to collaborations, technical discussions, and exploring new opportunities.
 
