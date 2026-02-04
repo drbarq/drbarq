@@ -2,7 +2,7 @@
 
 ~~Vibe // Chaos~~
 
-**Full-Stack Developer** | Building AI-powered tools | Teaching 2K+ developers about AI & development
+**Full-Stack Developer** | Building AI-powered tools | Teaching 6K+ developers about AI & development
 
 I bridge the gap between complex technical solutions and real business value. I build scalable applications, create AI-powered products, and share what I learn with developers on TikTok.
 
